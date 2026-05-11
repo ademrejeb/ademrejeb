@@ -1,59 +1,80 @@
-### Hi there, I'm Adem 👋
+<h1 align="center">Hi there, I'm Adem Rejeb 👋</h1>
 
-## Full Stack Web Developer & Software Engineer 👨🏻‍💻 |**
-
-- 🔭 I'm a highly motivated and skilled software engineer with a passion for building innovative and scalable web applications
-- 🌱 Fav Quote : Under pressure , you don't rise to level of the occasion, you sink to the level of your training ! 
-- 👯 I’m looking forward to any oppertunity to enhance my skills and network !  
-- ⚡ Fun fact: I can comeback from from the dead cause I am a MADRIDISTAA ! VAMOOS
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+<h3 align="center">
+adge/Facebook-Adem%20Rejeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />  Full Stack Web Developer & Software Engineer 👨🏻‍💻
+  </a>
+</p>
 
 ---
 
+## 🚀 About Me
 
-  <b>My GitHub Stats</b>
+- 🔭 I’m a highly motivated software engineer passionate about building **modern, scalable web applications**
+- 🌱 Favorite quote:  
+  > “Under pressure, you don’t rise to the level of the occasion, you sink to the level of your training.”
+- 👯 I’m always open to opportunities that help me **grow, collaborate, and expand my network**
+- 💻 I enjoy working across the full stack: frontend, backend, databases, APIs, and DevOps
+- ⚡ Fun fact: I can come back from the dead because I’m a **MADRIDISTA** 🤍  
+  **HALA MADRID Y NADA MÁS!**
 
-<a href="http://www.github.com/ademrejeb"><img src="https://github-readme-stats.vercel.app/api?username=ademrejeb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ademrejeb's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/ademrejeb"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ademrejeb&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## 🛠️ Tech Stack
 
-<a href="https://github.com/ademrejeb" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademrejeb&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Frontend
 
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,angular,bootstrap,tailwind" />
+</p>
 
-[facebook]: https://www.facebook.com/profile.php?id=100008722720038/
-[instagram]: https://www.instagram.com/rejebadem/
-[linkedin]: https://www.linkedin.com/in/rejeb-adem-415b1b211/
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,php,symfony,django,dotnet,cs" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React Native**
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,bash" />
+</p>
+
+---
+
+## 💼 What I Work With
+
+```txt
+Frontend     : React.js, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS
+Backend      : Node.js, .NET, C#, Java, PHP, Symfony, Django
+Mobile       : React Native
+Database     : MySQL, MongoDB, PostgreSQL, SQL
+DevOps/Tools : Docker, Git, GitHub, VS Code, Linux, Terminal
+``
+</h3>
+
+<p align="center">
+  Passionate about building innovative, scalable, and user-friendly web & mobile applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rejeb-adem-415b1b211/">
+    <img src="https://img.shields.io/badge/LinkedIn-Adem%20Rejeb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/rejebadem/">
+    <img src="https://img.shields.io/badge/Instagram-rejebadem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100008722720038/">
