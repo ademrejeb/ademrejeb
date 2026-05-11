@@ -1,11 +1,21 @@
 <h1 align="center">Hi there, I'm Adem Rejeb 👋</h1>
 
- /><h3 align="center">
+<h3 align="center">
+  Full Stack Web Developer & Software Engineer 👨🏻‍💻
+</h3>
+
+<p align="center">
+  Passionate about building modern, scalable, and user-friendly web & mobile applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rejeb-adem-415b1b211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Adem%20Rejeb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/rejebadem/">
+  <a href="https://www.instagram.com/rejebadem/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-rejebadem-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100008722720038/">
+  <a href="https://www.facebook.com/profile.php?id=100008722720038/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Adem%20Rejeb-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
@@ -14,9 +24,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm a highly motivated and skilled software engineer with a passion for building **innovative and scalable applications**
-- 🌐 I enjoy working on both **frontend** and **backend** development
-- 📱 I’m also interested in **mobile development** with React Native
+- 🔭 I'm a highly motivated and skilled software engineer passionate about building **innovative, scalable, and high-quality applications**
+- 💻 I enjoy working on both **frontend** and **backend** development
+- 📱 I’m interested in mobile development with **React Native**
 - 🧠 Always learning, always improving, always building
 - 👯 I’m looking forward to opportunities to enhance my skills, collaborate, and grow my network
 - 🌱 Favorite quote:
@@ -91,7 +101,7 @@
   <img alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img alt="GitHub" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
   <img alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
+  <img alt="VS Code" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
   <img alt="Visual Studio" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />
   <img alt="Linux" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img alt="Bash" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" />
@@ -111,12 +121,3 @@ Mobile       : React Native
 Databases    : SQL, MySQL, PostgreSQL, MongoDB
 
 DevOps/Tools : Docker, Git, GitHub, VS Code, Visual Studio, Linux, Bash
-  Full Stack Web Developer & Software Engineer 👨🏻‍💻
-</h3>
-
-<p align="center">
-  Passionate about building modern, scalable, and user-friendly web & mobile applications.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rejeb-adem-415b1b211/">
